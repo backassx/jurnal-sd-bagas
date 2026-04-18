@@ -1,4 +1,4 @@
-Baris ini diubah di CABANG KONFLIK
+Baris ini diubah di MAIN
 
 Saya akan berperan sebagai Frontend dalam proyek kelompok.
 
