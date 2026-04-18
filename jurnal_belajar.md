@@ -1,4 +1,4 @@
-Hari ini saya belajar dasar kolaborasi perangkat lunak.
+Baris ini diubah di MAIN
 
 Saya akan berperan sebagai Frontend dalam proyek kelompok.
 
