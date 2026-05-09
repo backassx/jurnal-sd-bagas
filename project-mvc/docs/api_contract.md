@@ -30,3 +30,55 @@
 
 ```
 
+\---
+
+
+
+\# API Contract - Login
+
+
+
+\*\*Endpoint:\*\* `/api/v1/login`
+
+
+
+\*\*Method:\*\* `POST`
+
+
+
+\## Request Body (JSON)
+
+
+
+```json
+
+{
+
+&#x20; "username": "mahasiswa\_sd",
+
+&#x20; "password": "123456"
+
+}
+
+```
+
+
+
+\## Response Body (JSON)
+
+
+
+```json
+
+{
+
+&#x20; "status": "success",
+
+&#x20; "message": "Login berhasil",
+
+&#x20; "token": "abc123token"
+
+}
+
+```
+
