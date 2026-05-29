@@ -1,0 +1,10 @@
+/* Dashboard Theme */
+
+body {
+    background-color: white;
+    color: black;
+}
+
+.dashboard {
+    color: blue;
+}
